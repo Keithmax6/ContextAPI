@@ -4,9 +4,9 @@ export const MyContext = React.createContext();
 
 export default function Index(){
     const users = [
-        {id:1,name:'keith'},
-        {id:2,name:'max'},
-        {id:3,name:'yanfei'},
+        {id:1,name:'keith bharath'},
+        {id:2,name:'ajith'},
+        {id:3,name:'farish'},
       ]
 
     return(
